@@ -1,4 +1,4 @@
 # Lab 6 - Starter
 
 
-https://jesszhu71.github.io/Lab6_Starter/index
+[Link to website](https://jesszhu71.github.io/Lab6_Starter/index)
